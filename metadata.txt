@@ -1,0 +1,1314 @@
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: Age at Visit
+Unnamed: 4: Gender
+Unnamed: 5: Ethnicity
+Lesion Characteristics: Primary Morphology
+Unnamed: 7: Secondary Morphology
+Unnamed: 8: Descriptors
+Unnamed: 9: Palpation
+Unnamed: 10: Color(s)
+Unnamed: 11: Localization(s)
+Visit Specifics: Biopsy
+Unnamed: 13: Differential Diagnoses
+Unnamed: 14: Actual Treatment
+Unnamed: 15: Alternative Treatment(s)
+
+~~~
+Web: dermatlas.net
+Diagnosis: abscess
+Image Name: 184_Abscess_ulcer_factitio
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Caucasian
+Lesion Characteristics: swelling, abscess
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: fluctuant, tender, warm
+Unnamed: 10: erythematous, pink
+Unnamed: 11: legs-upper
+Visit Specifics: No biopsy
+Unnamed: 13: cyst, epidermal
+Unnamed: 14: Incise and drain area, Cephalexin
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: abscess
+Image Name: 321Abscess_homeless
+Patient Demographics: Middle Aged
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: swelling, abscess
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: fluctuant, tender, warm
+Unnamed: 10: erythematous, pink
+Unnamed: 11: neck
+Visit Specifics: No biopsy
+Unnamed: 13: sebaceous cyst
+Unnamed: 14: Incise and drain area, Admit to hospital, Antibiotics, IV
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acanthosis nigricans
+Image Name: acanthosis-nigracans
+Patient Demographics: Child
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: hyperkeratosis, plaque
+Unnamed: 7: Not Entered
+Unnamed: 8: Not Entered
+Unnamed: 9: soft
+Unnamed: 10: hyperpigmented, brown, pink
+Unnamed: 11: axilla
+Visit Specifics: No biopsy
+Unnamed: 13: erythrasma
+Unnamed: 14: Reassurance
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acanthosis nigricans
+Image Name: acanthosis-nigracans-axilla
+Patient Demographics: Middle Aged
+Unnamed: 4: female
+Unnamed: 5: nan
+Lesion Characteristics: hyperkeratosis, plaque
+Unnamed: 7: Not Entered
+Unnamed: 8: Not Entered
+Unnamed: 9: soft
+Unnamed: 10: hyperpigmented, brown, pink
+Unnamed: 11: axilla
+Visit Specifics: No biopsy
+Unnamed: 13: erythrasma
+Unnamed: 14: Reassurance
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acanthosis nigricans
+Image Name: 164-2_acanthosis-nigricans-psoriasis2
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Latino
+Lesion Characteristics: hyperkeratosis, plaque
+Unnamed: 7: Not Entered
+Unnamed: 8: Not Entered
+Unnamed: 9: soft
+Unnamed: 10: hyperpigmented, brown, pink
+Unnamed: 11: axilla
+Visit Specifics: No biopsy
+Unnamed: 13: erythrasma
+Unnamed: 14: Reassurance
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acanthosis nigricans
+Image Name: 164_acanthosis-nigricans-psoriasis
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Latino
+Lesion Characteristics: hyperkeratosis, plaque
+Unnamed: 7: Not Entered
+Unnamed: 8: Not Entered
+Unnamed: 9: soft
+Unnamed: 10: hyperpigmented, brown, pink
+Unnamed: 11: axilla
+Visit Specifics: No biopsy
+Unnamed: 13: erythrasma
+Unnamed: 14: Reassurance
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acanthosis nigricans
+Image Name: Dscn5128
+Patient Demographics: Middle Aged
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: hyperkeratosis, plaque
+Unnamed: 7: Not Entered
+Unnamed: 8: Not Entered
+Unnamed: 9: soft
+Unnamed: 10: hyperpigmented, brown, dark brown
+Unnamed: 11: neck
+Visit Specifics: No biopsy
+Unnamed: 13: Not Entered
+Unnamed: 14: Reassurance, weight loss
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: nan
+Diagnosis:  vitiligo
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne keloidalis scars
+Image Name: 307Acne_keloid
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: hypertrophy, nodule
+Unnamed: 7: Not Entered
+Unnamed: 8: raised
+Unnamed: 9: bumpy, firm
+Unnamed: 10: red, pink
+Unnamed: 11: chest
+Visit Specifics: No biopsy
+Unnamed: 13: keloid
+Unnamed: 14: No treatment available
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne keloidalis scars
+Image Name: 315Acne_scarring3
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: hypertrophy, nodule
+Unnamed: 7: Not Entered
+Unnamed: 8: raised
+Unnamed: 9: bumpy, firm
+Unnamed: 10: red, pink
+Unnamed: 11: chest
+Visit Specifics: No biopsy
+Unnamed: 13: keloid
+Unnamed: 14: No treatment available
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne keloidalis scars
+Image Name: 315Acne_scarring4
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: Not Entered
+Unnamed: 7: atrophy
+Unnamed: 8: raised
+Unnamed: 9: bumpy, firm
+Unnamed: 10: red, pink, white
+Unnamed: 11: back
+Visit Specifics: No biopsy
+Unnamed: 13: keloid
+Unnamed: 14: No treatment available
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne keloidalis scars
+Image Name: 316Acne_scarring5
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: Not Entered
+Unnamed: 7: atrophy
+Unnamed: 8: raised
+Unnamed: 9: bumpy, firm
+Unnamed: 10: red, pink, white
+Unnamed: 11: back
+Visit Specifics: No biopsy
+Unnamed: 13: keloid
+Unnamed: 14: No treatment available
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne neonatorum
+Image Name: milia-acne
+Patient Demographics: Infant
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, papule
+Unnamed: 7: Not Entered
+Unnamed: 8: rough
+Unnamed: 9: bumpy
+Unnamed: 10: pink
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: acne, milia
+Unnamed: 14: Reassurance
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne neonatorum
+Image Name: acne-milia-infant1
+Patient Demographics: Infant
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: papule, comedones
+Unnamed: 7: Not Entered
+Unnamed: 8: rough
+Unnamed: 9: bumpy
+Unnamed: 10: pink
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: acne
+Unnamed: 14: Reassurance
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: nan
+Diagnosis:  milia
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: acne4
+Patient Demographics: Middle Aged
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, papule, nodule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema, rough
+Unnamed: 9: bumpy, nodular
+Unnamed: 10: red, erythematous
+Unnamed: 11: cheek, face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Erythromycin, topical, Benzoyl Peroxide, topical 2.5-5%, Retin-A (tretinoin), Micro
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: cindy-acne150_1
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Accutane (isotretinoin), Oral contraceptive pill, Intralesional steroid injection
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: cindy-acne-cu150_2
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Accutane (isotretinoin), Oral contraceptive pill, Intralesional steroid injection
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: cindy-acne-cu2-150_3
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Accutane (isotretinoin), Oral contraceptive pill, Intralesional steroid injection
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: cindy-acne-injection150_4
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Accutane (isotretinoin), Oral contraceptive pill, Intralesional steroid injection
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 300Acne_1mo_before_acutan
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Accutane (isotretinoin), Oral contraceptive pill
+Unnamed: 15: Benzamycin gel, topical, Retin-A (tretinoin), Micro, Minocycline, oral
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 300Acne_cyst_32yrs
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Accutane (isotretinoin), Oral contraceptive pill
+Unnamed: 15: Benzamycin gel, topical, Retin-A (tretinoin), Micro, Minocycline, oral
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 300-3Acne_sp_acutane
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Latino
+Lesion Characteristics: comedones, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Accutane (isotretinoin)
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 301Acne_comedonal2
+Patient Demographics: Adolescent
+Unnamed: 4: female
+Unnamed: 5: Native American
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Benzamycin gel, topical
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 302-1Acne_cysts_before_inje
+Patient Demographics: Adolescent
+Unnamed: 4: female
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Intralesional steroid injection, Doxycycline, Oral contraceptive pill
+Unnamed: 15: Accutane (isotretinoin), Differin (adapalene) gel, Retin-A (tretinoin), Micro, Minocycline, oral
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 302-2Acne_injection2
+Patient Demographics: Adolescent
+Unnamed: 4: female
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Intralesional steroid injection, Doxycycline, Oral contraceptive pill
+Unnamed: 15: Accutane (isotretinoin), Differin (adapalene) gel, Retin-A (tretinoin), Micro, Minocycline, oral
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 303-1Acne_pustules_Carlos1
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Latino
+Lesion Characteristics: nodule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Benzamycin gel, topical
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 303Acne_pustules_nodule_C
+Patient Demographics: Young Adult
+Unnamed: 4: male
+Unnamed: 5: Latino
+Lesion Characteristics: nodule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Benzamycin gel, topical
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 304-2Acne_Doreen_face
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, papule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Azaleic acid (Azalex) cream
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 304Acne_Doreen_axelex_18y
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, papule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Azaleic acid (Azalex) cream
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 305-1lAcne_Robert1
+Patient Demographics: Adolescent
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Tetracycline, oral, Benzamycin gel, topical
+Unnamed: 15: Retin-A (tretinoin), Micro, Differin (adapalene) gel
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 305-2Acne_Robert2
+Patient Demographics: Adolescent
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Tetracycline, oral, Benzamycin gel, topical
+Unnamed: 15: Retin-A (tretinoin), Micro, Differin (adapalene) gel
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 305-2Acne_Robert3
+Patient Demographics: Adolescent
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Tetracycline, oral, Benzamycin gel, topical
+Unnamed: 15: Retin-A (tretinoin), Micro, Differin (adapalene) gel
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 305-3Acne_Robert5
+Patient Demographics: Adolescent
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Tetracycline, oral, Benzamycin gel, topical
+Unnamed: 15: Retin-A (tretinoin), Micro, Differin (adapalene) gel
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 305-3fuAcne_Robert6_ready_for
+Patient Demographics: Adolescent
+Unnamed: 4: male
+Unnamed: 5: Caucasian
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: crust
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Minocycline, oral
+Unnamed: 15: Accutane (isotretinoin)
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 308Acne_neonatal
+Patient Demographics: Infant
+Unnamed: 4: female
+Unnamed: 5: Caucasian
+Lesion Characteristics: papule
+Unnamed: 7: Not Entered
+Unnamed: 8: rough
+Unnamed: 9: bumpy
+Unnamed: 10: pink
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: acne, milia
+Unnamed: 14: Reassurance
+Unnamed: 15: No alternative treatment
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
+Web: dermatlas.net
+Diagnosis: acne
+Image Name: 310Acne_perioral_with_hyp
+Patient Demographics: Young Adult
+Unnamed: 4: female
+Unnamed: 5: Asian/Pacific Islander
+Lesion Characteristics: comedones, nodule, papule, pustule
+Unnamed: 7: Not Entered
+Unnamed: 8: erythema
+Unnamed: 9: bumpy
+Unnamed: 10: red, white
+Unnamed: 11: face
+Visit Specifics: No biopsy
+Unnamed: 13: rosacea, impetigo, folliculitis, acne keloidalis scars , pseudofolliculitis barbae
+Unnamed: 14: Tetracycline, oral, Benzamycin gel, topical
+Unnamed: 15: Retin-A (tretinoin), Micro, Differin (adapalene) gel
+
+~~~
+Web: nan
+Diagnosis: nan
+Image Name: nan
+Patient Demographics: nan
+Unnamed: 4: nan
+Unnamed: 5: nan
+Lesion Characteristics: nan
+Unnamed: 7: nan
+Unnamed: 8: nan
+Unnamed: 9: nan
+Unnamed: 10: nan
+Unnamed: 11: nan
+Visit Specifics: nan
+Unnamed: 13: nan
+Unnamed: 14: nan
+Unnamed: 15: nan
+
+~~~
