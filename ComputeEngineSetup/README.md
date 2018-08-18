@@ -31,11 +31,10 @@ Run the installer script (installs pyenv and some very useful pyenv plugins by t
 curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash
 ```
 Add init lines to your ```bash ~/.profile or ~/.bashrc ``` (it mentions it at the end of the install script):
-```bash
-export PATH="~/.pyenv/bin:$PATH"
+<pre><code>export PATH="~/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
-```
+</code></pre></li>
 Restart your shell (close & open or exec ```bash $SHELL ```) or reload the profile script. (with e.g. ```bash source ~/.bashrc ```)
 
 ### Setting up an environment ###
