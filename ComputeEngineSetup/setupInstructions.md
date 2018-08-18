@@ -6,9 +6,7 @@ mathjax: true
 permalink: github.com/Mednovation/ClassificationALG/ComputeEngineSetu
 -->
 
-This document summerizes all the steps taken to setup the Google Cloud Platform Compute Engine and the other necessary comuptational resources including GPU, and storage and the like.
-
-The gola of this page is to have a refernce of steps taken to setup the run-time enviroenmtn, so it can be reolicated.
+This document summerizes all the steps taken to setup the Google Cloud Platform Compute Engine and the other necessary comuptational resources including GPU, and storage and the like. The gola of this page is to have a refernce of steps taken to setup the run-time enviroenmtn, so it can be reolicated.
 
 ## Part One - Compute Engine Image Build
 Instructions on how to create a VM in Google Cloud Platform (GCP) can be found in [here](http://cs231n.github.io/gce-tutorial/)
