@@ -1,10 +1,11 @@
-### Compute engine Setup Instruction ###
+# Compute Engine Setup Instruction #
 
----
+<!---
 layout: page
 mathjax: true
 permalink: github.com/Mednovation/ClassificationALG/ComputeEngineSetu
----
+-->
+
 This document summerizes all the steps taken to setup the Google Cloud Platform Compute Engine and the other necessary comuptational resources including GPU, and storage and the like.
 
 The gola of this page is to have a refernce of steps taken to setup the run-time enviroenmtn, so it can be reolicated.
@@ -16,7 +17,7 @@ Instructions on how to create a VM in Google Cloud Platform (GCP) can be found i
 ## Part Two - Instal Pyton and necessary enviroenmtns in VM
 All steps listed below are taken from askubuntu forum in [here](https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get)
 
-3 Install pyenv #
+### Install pyenv ###
 Install headers needed to build CPythons (exotic Pythons like PyPy or Jython may have other dependencies):
 
 ```bash
@@ -39,7 +40,7 @@ eval "$(pyenv virtualenv-init -)"
 ```
 Restart your shell (close & open or exec ```bash $SHELL ```) or reload the profile script. (with e.g. ```bash source ~/.bashrc ```)
 
-# Setting up an environment #
+### Setting up an environment ###
 To not touch the system Python (generally a bad idea; OS-level services might be relying on some specific library versions, etc.) make your own environment, it's easy! Even better, no sudo, for it or pip installs!
 
 Install your preferred Python version (this will download the source and build it for your user, no input required)
